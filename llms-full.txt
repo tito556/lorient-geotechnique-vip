@@ -1,0 +1,49 @@
+# Geotechnique — Lorient
+
+> Geotechnical engineering services in Lorient, France.
+
+## Services
+- [Amelioration Sols](https://lorient.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://lorient.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://lorient.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://lorient.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://lorient.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://lorient.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://lorient.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://lorient.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://lorient.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://lorient.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://lorient.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://lorient.geotechnique.vip/fondations/)
+- [Geophysique](https://lorient.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://lorient.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://lorient.geotechnique.vip/granulometrie/)
+- [Investigation](https://lorient.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://lorient.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://lorient.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://lorient.geotechnique.vip/laboratoire/)
+- [Liquefaction](https://lorient.geotechnique.vip/liquefaction/)
+- [Masw](https://lorient.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://lorient.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://lorient.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://lorient.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://lorient.geotechnique.vip/pieux/)
+- [Puits Inspection](https://lorient.geotechnique.vip/puits-inspection/)
+- [Radiers](https://lorient.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://lorient.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://lorient.geotechnique.vip/resistivite/)
+- [Semelles](https://lorient.geotechnique.vip/semelles/)
+- [Sismique](https://lorient.geotechnique.vip/sismique/)
+- [Sondages Spt](https://lorient.geotechnique.vip/sondages-spt/)
+- [Surveillance Excavations](https://lorient.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://lorient.geotechnique.vip/talus/)
+- [Triaxial](https://lorient.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://lorient.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://lorient.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://lorient.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Lorient, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
